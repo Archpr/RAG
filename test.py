@@ -23,7 +23,7 @@ def main():
         try:
             answer = run_chain(query)
             print("📘 Answer:\n")
-            print(answer)
+            print(answer)bcom 
         except Exception as e:
             print(f"❌ Error: {e}")
 
