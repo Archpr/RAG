@@ -2,3 +2,10 @@ rag_env/
 .env
 .ipynb_checkpoints/
 __pycache__/
+my_notes.md
+data/
+chunking.ipynb
+cmplt_pipeline.ipynb
+dataingetion_bge.ipynb
+strmlt.__pycache__
+venv/
